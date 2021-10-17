@@ -359,7 +359,7 @@ jQuery(function($){
 					<div class="et_pb_blurb_container">
 						<h4 class="et_pb_module_header"><span>Resepsi</span></h4>
 						<div class="et_pb_blurb_description">
-							<p>Senin, 18 September 2021<br> 11.00 s/d 14.00 WIB<br> <strong>Kediaman Mempelai Wanita</strong><br> Lingk. Manis RT 30 RW 11, Cigugur,<br> Kab. Kuningan, Jawa Barat</p>
+							<p>Senin, 18 Oktober 2021<br> 11.00 s/d 14.00 WIB<br> <strong>Kediaman Mempelai Wanita</strong><br> Lingk. Manis RT 30 RW 11, Cigugur,<br> Kab. Kuningan, Jawa Barat</p>
 						</div>
 					</div>
 				</div> <!-- .et_pb_blurb_content -->
